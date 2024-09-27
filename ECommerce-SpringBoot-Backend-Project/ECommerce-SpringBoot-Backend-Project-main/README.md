@@ -38,14 +38,6 @@
     * Viewing different products and adding them to cart and placing orders
     * Only logged in user can access his orders, cart and other features.
 
-## Contributors
-
-* [@abinashpanigrahi](https://github.com/abinashpanigrahi)
-* [@Dathuram16](https://github.com/Dathuram16)
-* [@kamalvinjamoori](https://github.com/kamalvinjamoori)
-* [@anandrajsingh05](https://github.com/anandrajsingh05)
-* [@Adithyanathkv](https://github.com/Adithyanathkv)
-
 
 ## Installation & Run
 
